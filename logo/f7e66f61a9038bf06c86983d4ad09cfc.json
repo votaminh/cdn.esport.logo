@@ -1,0 +1,424 @@
+{
+    "id": "yff8q3m9xof5wima5ewhbbxviedgq4y1",
+    "name": "input_file",
+    "type": "Document",
+    "x": 0,
+    "y": 0,
+    "width": 500,
+    "height": 500,
+    "resolution": 72,
+    "visible": true,
+    "color": null,
+    "image": "assets/t5y57jjq0t3baeoc08j7l9mno4bcnoag.jpg",
+    "contents": null,
+    "font": null,
+    "layers": [
+        {
+            "id": 17,
+            "name": "Graphic",
+            "type": "Folder",
+            "opacity": 100,
+            "x": 8.15625,
+            "y": 50.0625,
+            "width": 474,
+            "height": 400,
+            "visible": true,
+            "styles": {
+                "blendOptions": {
+                    "mode": "passThrough"
+                }
+            },
+            "color": null,
+            "image": null,
+            "contents": null,
+            "font": null,
+            "layers": [
+                {
+                    "id": 22,
+                    "name": "Graphic Indicators",
+                    "type": "Folder",
+                    "opacity": 50.1960784313726,
+                    "x": 48,
+                    "y": 52,
+                    "width": 433,
+                    "height": 343,
+                    "visible": false,
+                    "styles": {
+                        "blendOptions": {
+                            "opacity": 50,
+                            "mode": "passThrough"
+                        }
+                    },
+                    "color": null,
+                    "image": null,
+                    "contents": null,
+                    "font": null,
+                    "layers": [
+                        {
+                            "id": 21,
+                            "name": "Visual Center",
+                            "type": "Shape",
+                            "opacity": 100,
+                            "fill": 100,
+                            "x": 242,
+                            "y": 364,
+                            "width": 16,
+                            "height": 15,
+                            "visible": false,
+                            "styles": {
+                                "blendOptions": {}
+                            },
+                            "color": null,
+                            "image": "assets/qitb5s0fiy4g5univslaiuj4fwsx3gx0.svg",
+                            "contents": null,
+                            "font": null,
+                            "layers": [],
+                            "smartObject": null,
+                            "smartFilters": null
+                        },
+                        {
+                            "id": 20,
+                            "name": "Focus Area",
+                            "type": "Shape",
+                            "opacity": 100,
+                            "fill": 100,
+                            "x": 48,
+                            "y": 52,
+                            "width": 433,
+                            "height": 343,
+                            "visible": false,
+                            "styles": {
+                                "blendOptions": {}
+                            },
+                            "color": null,
+                            "image": "assets/78lu4poxgsm7tu8r4834rp5dtr98um47.svg",
+                            "contents": null,
+                            "font": null,
+                            "layers": [],
+                            "smartObject": null,
+                            "smartFilters": null
+                        }
+                    ],
+                    "smartObject": null,
+                    "smartFilters": null
+                },
+                {
+                    "id": 13,
+                    "name": "White",
+                    "type": "Folder",
+                    "opacity": 100,
+                    "x": 48.4062,
+                    "y": 50.0625,
+                    "width": 434,
+                    "height": 366,
+                    "visible": true,
+                    "styles": {
+                        "blendOptions": {
+                            "mode": "passThrough"
+                        }
+                    },
+                    "color": null,
+                    "image": null,
+                    "contents": null,
+                    "font": null,
+                    "layers": [
+                        {
+                            "id": 12,
+                            "name": "White 1",
+                            "type": "Shape",
+                            "opacity": 100,
+                            "fill": 100,
+                            "x": 48.4062,
+                            "y": 50.0625,
+                            "width": 434,
+                            "height": 366,
+                            "visible": true,
+                            "styles": {
+                                "blendOptions": {}
+                            },
+                            "color": null,
+                            "image": "assets/sd4wekro5nkrimdksl4wroriq9mongwi.svg",
+                            "contents": null,
+                            "font": null,
+                            "layers": [],
+                            "smartObject": null,
+                            "smartFilters": null
+                        }
+                    ],
+                    "smartObject": null,
+                    "smartFilters": null
+                },
+                {
+                    "id": 10,
+                    "name": "Accent",
+                    "type": "Folder",
+                    "opacity": 100,
+                    "x": 13.1875,
+                    "y": 79.2812,
+                    "width": 459,
+                    "height": 364,
+                    "visible": true,
+                    "styles": {
+                        "blendOptions": {
+                            "mode": "passThrough"
+                        },
+                        "layerEffects": {
+                            "scale": 100,
+                            "solidFill": {
+                                "enabled": true,
+                                "present": true,
+                                "showInDialog": true,
+                                "mode": "screen",
+                                "color": {
+                                    "red": 247.000000476837,
+                                    "green": 115.793770551682,
+                                    "blue": 73.6186784505844
+                                },
+                                "opacity": 100
+                            }
+                        }
+                    },
+                    "color": "#F77349",
+                    "image": null,
+                    "contents": null,
+                    "font": null,
+                    "layers": [
+                        {
+                            "id": 9,
+                            "name": "Accent 1",
+                            "type": "Shape",
+                            "opacity": 100,
+                            "fill": 100,
+                            "x": 13.1875,
+                            "y": 79.2812,
+                            "width": 459,
+                            "height": 364,
+                            "visible": true,
+                            "styles": {
+                                "blendOptions": {}
+                            },
+                            "color": null,
+                            "image": "assets/hqnt8d14ssdnyk93e6uw9jlnbb14h7pf.svg",
+                            "contents": null,
+                            "font": null,
+                            "layers": [],
+                            "smartObject": null,
+                            "smartFilters": null
+                        }
+                    ],
+                    "smartObject": null,
+                    "smartFilters": null
+                },
+                {
+                    "id": 7,
+                    "name": "Lights",
+                    "type": "Folder",
+                    "opacity": 100,
+                    "x": 167.062,
+                    "y": 111.5,
+                    "width": 292,
+                    "height": 230,
+                    "visible": true,
+                    "styles": {
+                        "blendOptions": {
+                            "mode": "passThrough"
+                        },
+                        "layerEffects": {
+                            "scale": 100,
+                            "solidFill": {
+                                "enabled": true,
+                                "present": true,
+                                "showInDialog": true,
+                                "mode": "screen",
+                                "color": {
+                                    "red": 175.001220703125,
+                                    "green": 135.001831054688,
+                                    "blue": 143.997802734375
+                                },
+                                "opacity": 100
+                            }
+                        }
+                    },
+                    "color": "#AF878F",
+                    "image": null,
+                    "contents": null,
+                    "font": null,
+                    "layers": [
+                        {
+                            "id": 6,
+                            "name": "Lights 1",
+                            "type": "Shape",
+                            "opacity": 100,
+                            "fill": 100,
+                            "x": 167.062,
+                            "y": 111.5,
+                            "width": 292,
+                            "height": 230,
+                            "visible": true,
+                            "styles": {
+                                "blendOptions": {}
+                            },
+                            "color": null,
+                            "image": "assets/rthetn7pdgj0fob0mjetccem1ors2bmx.svg",
+                            "contents": null,
+                            "font": null,
+                            "layers": [],
+                            "smartObject": null,
+                            "smartFilters": null
+                        }
+                    ],
+                    "smartObject": null,
+                    "smartFilters": null
+                },
+                {
+                    "id": 15,
+                    "name": "Main",
+                    "type": "Folder",
+                    "opacity": 100,
+                    "x": 103.531,
+                    "y": 101.469,
+                    "width": 356,
+                    "height": 286,
+                    "visible": true,
+                    "styles": {
+                        "blendOptions": {
+                            "mode": "passThrough"
+                        },
+                        "layerEffects": {
+                            "scale": 100,
+                            "solidFill": {
+                                "enabled": true,
+                                "present": true,
+                                "showInDialog": true,
+                                "mode": "screen",
+                                "color": {
+                                    "red": 99.9984741210938,
+                                    "green": 77.0027160644531,
+                                    "blue": 81.9987487792969
+                                },
+                                "opacity": 100
+                            }
+                        }
+                    },
+                    "color": "#634D51",
+                    "image": null,
+                    "contents": null,
+                    "font": null,
+                    "layers": [
+                        {
+                            "id": 5,
+                            "name": "Main 1",
+                            "type": "Shape",
+                            "opacity": 100,
+                            "fill": 100,
+                            "x": 103.531,
+                            "y": 101.469,
+                            "width": 356,
+                            "height": 286,
+                            "visible": true,
+                            "styles": {
+                                "blendOptions": {}
+                            },
+                            "color": null,
+                            "image": "assets/r984ss6sb88g243q6ydaowlp5fou38jx.svg",
+                            "contents": null,
+                            "font": null,
+                            "layers": [],
+                            "smartObject": null,
+                            "smartFilters": null
+                        }
+                    ],
+                    "smartObject": null,
+                    "smartFilters": null
+                },
+                {
+                    "id": 3,
+                    "name": "Shadow",
+                    "type": "Folder",
+                    "opacity": 100,
+                    "x": 8.15625,
+                    "y": 65.5938,
+                    "width": 469,
+                    "height": 385,
+                    "visible": true,
+                    "styles": {
+                        "blendOptions": {
+                            "mode": "passThrough"
+                        },
+                        "layerEffects": {
+                            "scale": 100,
+                            "solidFill": {
+                                "enabled": true,
+                                "present": true,
+                                "showInDialog": true,
+                                "mode": "screen",
+                                "color": {
+                                    "red": 51.0031127929688,
+                                    "green": 37.0033264160156,
+                                    "blue": 49.9992370605469
+                                },
+                                "opacity": 100
+                            }
+                        }
+                    },
+                    "color": "#332531",
+                    "image": null,
+                    "contents": null,
+                    "font": null,
+                    "layers": [
+                        {
+                            "id": 2,
+                            "name": "Shadow 1",
+                            "type": "Shape",
+                            "opacity": 100,
+                            "fill": 100,
+                            "x": 8.15625,
+                            "y": 65.5938,
+                            "width": 469,
+                            "height": 385,
+                            "visible": true,
+                            "styles": {
+                                "blendOptions": {}
+                            },
+                            "color": null,
+                            "image": "assets/e0x6bkxt47dwnnx3isp837gucxwkx1bp.svg",
+                            "contents": null,
+                            "font": null,
+                            "layers": [],
+                            "smartObject": null,
+                            "smartFilters": null
+                        }
+                    ],
+                    "smartObject": null,
+                    "smartFilters": null
+                }
+            ],
+            "smartObject": null,
+            "smartFilters": null
+        },
+        {
+            "id": 24,
+            "name": "_system.square_checkered_layer",
+            "type": "Unknown",
+            "opacity": 100,
+            "fill": 100,
+            "x": 0,
+            "y": 0,
+            "width": 500,
+            "height": 500,
+            "visible": true,
+            "styles": {
+                "blendOptions": {}
+            },
+            "color": null,
+            "image": null,
+            "contents": null,
+            "font": null,
+            "layers": [],
+            "smartObject": null,
+            "smartFilters": null
+        }
+    ],
+    "smartObject": null
+}
+1
